@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from './header';
-import Footer from './footer';
 import CompanyForm from './companyForm';
 import Dropzone from 'react-dropzone';
 import PaymentForm from './paymentForm';
