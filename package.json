@@ -1,5 +1,5 @@
 {
-  "name": "friendZoneApp",
+  "name": "briansApp",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -14,9 +14,6 @@
     "babel-loader": "^6.2.5",
     "babel-preset-es2015": "^6.14.0",
     "babel-preset-react": "^6.11.1",
-    "firebase": "^3.3.2",
-    "lodash": "^4.15.0",
-    "re-base": "^2.1.0",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "react-dropzone": "^3.6.0",
